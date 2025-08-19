@@ -1,0 +1,17 @@
+[33mcommit c644b817e7d56e563621fb8bbd2829fe8e27cf71[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Suraj <surajlakda55@gmail.com>
+Date:   Tue Aug 12 10:07:03 2025 +0530
+
+    New commit
+
+[33mcommit 48f26a8455261609ee2c8773bc37b0164e2e0a3b[m
+Author: Suraj <surajlakda55@gmail.com>
+Date:   Tue Aug 12 10:01:52 2025 +0530
+
+    This is updated git
+
+[33mcommit 4736208be2ef0484ec0598d4d349825e6e58ee93[m
+Author: Suraj <surajlakda55@gmail.com>
+Date:   Tue Aug 12 09:55:48 2025 +0530
+
+    My First Git commit

@@ -1,0 +1,5 @@
+Hello
+git
+dggdhh
+sdfsdfse
+git restore --staged one.txt
